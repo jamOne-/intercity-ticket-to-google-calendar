@@ -1,4 +1,4 @@
-# Intercity tiket → Google Calendar
+# Intercity ticket → Google Calendar
 
 ## Description
 
